@@ -1,0 +1,14 @@
+Desenvolver um banco de dados Oracle que apresente as seguintes características:
+
+  - 3 procedures com funcionalides diferentes
+
+  - 2 function
+
+  - 2 trigger 
+ 
+  - No mínimo 1 procedure e 1 function retornando n linhas.
+
+Importante:
+
+  Na avaliação será considerada a complexidade das procedures, functions e triggers. 
+
